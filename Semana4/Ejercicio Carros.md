@@ -16,8 +16,8 @@ Diseñar una clase que represente un carro. La clase debería tener ocho atribut
 La clase también debe tener métodos:
 | Metodo | Tipo |Atributos | Resultados| Comprobaciones|
 |-----|-----|-----|-----|-----|
-| CONSTRUCTOR |???|Todos| |inicializar en los valores de los atributos |
-| CONSTRUCTOR |???|Ninguno||Inicializar cadenas en "", numeros en 0 y booleano en falso| 
+| CONSTRUCTOR |???|Todos|inicializar en los valores de los atributos ||
+| CONSTRUCTOR |???|Ninguno|Inicializar cadenas en "", numeros en 0 y booleano en falso| |
 | arrancar| público|Ninguno|Cambia estado del carro|Si ya esta andando|
 | parar| público|Ninguno|Cambia estado del carro|Si esta parado|
 | acelerar| público|Velocidad|Aumenta la velocidad, si es posible| comprueba la velocidad respecto a la máxima|
